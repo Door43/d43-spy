@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[spy:home|Door43 (spy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-spy|d43-spy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-spy/archive/master.zip|d43-spy.zip]]
+
+**Recent Changes**
+{{changes>ns = spy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/spy|Ethnologue data]]
+
